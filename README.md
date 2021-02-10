@@ -9,7 +9,8 @@
 >### " Keep coding ! " 
 
 # *About me* <img src="https://media.tenor.com/images/502e119b9b583f14917bf80dabc06d04/tenor.gif" width="35px"> 
-    CS Student <img src="https://c.tenor.com/grhuEkbcNh8AAAAj/emoji-fast-typing.gif" width="35px"> 
+  
+  CS Student <img src="https://c.tenor.com/grhuEkbcNh8AAAAj/emoji-fast-typing.gif" width="35px"> 
 </div>
 
 # Skills and Knowledge <img src="https://media.tenor.com/images/2c5534b40b189422a2c0393818451123/tenor.gif" width="40px"> 
