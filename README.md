@@ -8,7 +8,7 @@
 
 >### " Keep coding ! " 
 
-# *About me* <img src="pics/about.gif" width="100px"> 
+# *About me* <img src="https://tenor.com/view/emoji-spin-hmm-thinking-thinking-emoji-gif-17399212" width="100px"> 
 
 </div>
 
