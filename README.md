@@ -1,6 +1,6 @@
 <div style="font-family: Copperplate,Copperplate Gothic Light,fantasy;">
 
-# *Hi everybody* <img src="pics/wave.gif" width="30px">  
+# *Hello everybody* <img src="pics/wave.gif" width="30px">  
 
 * Welcome to my github profile
 
