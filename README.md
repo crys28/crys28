@@ -14,14 +14,24 @@
 </div>
 
 # Skills and Knowledge <img src="https://media.tenor.com/images/2c5534b40b189422a2c0393818451123/tenor.gif" width="40px"> 
+>* IDE's and code editors
+>    * Visual Studio Code
+>    * Sublime Text 3
 >* HTML 
->   * Sublime Text 3
 >* CSS
 >    * Bootstrap
 >* JavaScript
->   * NodeJS
+>   * node
+>   * electron.js
+>   * jQuery
+>   * cheerio.js
+>   * puppeteer.js
 >* Java
 >    * Netbeans
+>* Database
+>    * My SQL
+>        * My SQL Workbench
+>        * phpMyAdmin
 >* MarkDown
 >* Web scraping
 >* Batch scripts
