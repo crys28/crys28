@@ -26,6 +26,7 @@
 >   * jQuery
 >   * cheerio.js
 >   * puppeteer.js
+>   * discord.js
 >* Java
 >    * Netbeans
 >* Database
