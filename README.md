@@ -22,6 +22,7 @@
 >    * Bootstrap
 >* JavaScript
 >   * node
+>   * JSON
 >   * electron.js
 >   * jQuery
 >   * cheerio.js
@@ -33,6 +34,7 @@
 >    * My SQL
 >        * My SQL Workbench
 >        * phpMyAdmin
+>* Blender
 >* MarkDown
 >* Web scraping
 >* Batch scripts
