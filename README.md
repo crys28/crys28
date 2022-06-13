@@ -1,6 +1,6 @@
 <div style="font-family: Copperplate,Copperplate Gothic Light,fantasy;">
 
-# *Hello everyone !* <img src="pics/wave.gif" width="15px">  
+# *Hello everyone !* <img src="pics/wave.gif" width="5px">  
 
 * Welcome to my github profile
 
@@ -8,12 +8,12 @@
 
 >### " Keep coding ! " 
 
-# *About me* <img src="https://media.tenor.com/images/502e119b9b583f14917bf80dabc06d04/tenor.gif" width="10px"> 
+# *About me* <img src="https://media.tenor.com/images/502e119b9b583f14917bf80dabc06d04/tenor.gif" width="5px"> 
   
-  CS Student   <img src="https://c.tenor.com/zwQHGz7tyIEAAAAj/astonished-face-emoji-astonished-face.gif" width="25px"> 
+  CS Student   <img src="https://c.tenor.com/zwQHGz7tyIEAAAAj/astonished-face-emoji-astonished-face.gif" width="5px"> 
 </div>
 
-# Skills and Knowledge <img src="https://media.tenor.com/images/2c5534b40b189422a2c0393818451123/tenor.gif" width="40px"> 
+# Skills and Knowledge <img src="https://media.tenor.com/images/2c5534b40b189422a2c0393818451123/tenor.gif" width="5px"> 
 >* IDE's and code editors
 >    * Visual Studio Code
 >    * Sublime Text 3
